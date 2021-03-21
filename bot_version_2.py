@@ -352,4 +352,4 @@ async def set_announcement(ctx):
         except Exception as e:
             await ctx.send(e)
 
-client.run("ODE4NzkzODI5NTg1OTExODM5.YEdPLQ._UH2XzHuXvf3Z0fBKSgWCA4hA6o")
+client.run(bot_token)
